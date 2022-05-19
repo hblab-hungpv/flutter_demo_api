@@ -1,133 +1,134 @@
-{"data":[
-  {
-    "id": "1",
-    "imageUrl": "assets/images/img_1.png",
-    "title": "Bruschetta plate",
-    "description": "Lorem ipsum",
-    "price": 15,
-    "availableQuantity": 5,
-    "avgRating": 4.5,
-    "numRatings": 2
-  },
-  {
-    "id": "2",
-    "imageUrl": "assets/images/img_3.png",
-    "title": "Mozzarella plate",
-    "description": "Lorem ipsum",
-    "price": 13,
-    "availableQuantity": 5,
-    "avgRating": 4,
-    "numRatings": 2
-  },
-  {
-    "id": "3",
-    "imageUrl": "assets/images/img_3.png",
-    "title": "Pasta plate",
-    "description": "Lorem ipsum",
-    "price": 17,
-    "availableQuantity": 5,
-    "avgRating": 5,
-    "numRatings": 2
-  },
-  {
-    "id": "4",
-    "imageUrl": "assets/images/img_2.png",
-    "title": "Piggy Bank Blue",
-    "description": "Lorem ipsum",
-    "price": 12,
-    "availableQuantity": 5,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "5",
-    "imageUrl": "assets/images/img_2.png",
-    "title": "Piggy Bank Green",
-    "description": "Lorem ipsum",
-    "price": 12,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "6",
-    "imageUrl": "assets/images/img_4.png",
-    "title": "Piggy Bank Pink",
-    "description": "Lorem ipsum",
-    "price": 12,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "7",
-    "imageUrl": "assets/images/img_3.png",
-    "title": "Pizza plate",
-    "description": "Lorem ipsum",
-    "price": 18,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "8",
-    "imageUrl": "assets/images/img_2.png",
-    "title": "Plate and Bowl",
-    "description": "Lorem ipsum",
-    "price": 21,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "9",
-    "imageUrl": "assets/images/img_1.png",
-    "title": "Salt and pepper lemon",
-    "description": "Lorem ipsum",
-    "price": 11,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "10",
-    "imageUrl": "assets/images/img_3.png",
-    "title": "Salt and pepper olives",
-    "description": "Lorem ipsum",
-    "price": 11,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "11",
-    "imageUrl": "assets/images/img_1.png",
-    "title": "Snacks plate",
-    "description": "Lorem ipsum",
-    "price": 24,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "12",
-    "imageUrl": "assets/images/img_2.png",
-    "title": "Flowers plate",
-    "description": "Lorem ipsum",
-    "price": 22,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  },
-  {
-    "id": "13",
-    "imageUrl": "assets/images/img_4.png",
-    "title": "Juicer for citrus fruits",
-    "description": "Lorem ipsum",
-    "price": 14,
-    "availableQuantity": 10,
-    "avgRating": 0,
-    "numRatings": 0
-  }
-]
+{
+  "test": [
+    {
+      "id": "1",
+      "imageUrl": "assets/images/img_1.png",
+      "title": "Bruschetta plate",
+      "description": "Lorem ipsum",
+      "price": 15,
+      "availableQuantity": 5,
+      "avgRating": 4.5,
+      "numRatings": 2
+    },
+    {
+      "id": "2",
+      "imageUrl": "assets/images/img_3.png",
+      "title": "Mozzarella plate",
+      "description": "Lorem ipsum",
+      "price": 13,
+      "availableQuantity": 5,
+      "avgRating": 4,
+      "numRatings": 2
+    },
+    {
+      "id": "3",
+      "imageUrl": "assets/images/img_3.png",
+      "title": "Pasta plate",
+      "description": "Lorem ipsum",
+      "price": 17,
+      "availableQuantity": 5,
+      "avgRating": 5,
+      "numRatings": 2
+    },
+    {
+      "id": "4",
+      "imageUrl": "assets/images/img_2.png",
+      "title": "Piggy Bank Blue",
+      "description": "Lorem ipsum",
+      "price": 12,
+      "availableQuantity": 5,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "5",
+      "imageUrl": "assets/images/img_2.png",
+      "title": "Piggy Bank Green",
+      "description": "Lorem ipsum",
+      "price": 12,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "6",
+      "imageUrl": "assets/images/img_4.png",
+      "title": "Piggy Bank Pink",
+      "description": "Lorem ipsum",
+      "price": 12,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "7",
+      "imageUrl": "assets/images/img_3.png",
+      "title": "Pizza plate",
+      "description": "Lorem ipsum",
+      "price": 18,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "8",
+      "imageUrl": "assets/images/img_2.png",
+      "title": "Plate and Bowl",
+      "description": "Lorem ipsum",
+      "price": 21,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "9",
+      "imageUrl": "assets/images/img_1.png",
+      "title": "Salt and pepper lemon",
+      "description": "Lorem ipsum",
+      "price": 11,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "10",
+      "imageUrl": "assets/images/img_3.png",
+      "title": "Salt and pepper olives",
+      "description": "Lorem ipsum",
+      "price": 11,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "11",
+      "imageUrl": "assets/images/img_1.png",
+      "title": "Snacks plate",
+      "description": "Lorem ipsum",
+      "price": 24,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "12",
+      "imageUrl": "assets/images/img_2.png",
+      "title": "Flowers plate",
+      "description": "Lorem ipsum",
+      "price": 22,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    },
+    {
+      "id": "13",
+      "imageUrl": "assets/images/img_4.png",
+      "title": "Juicer for citrus fruits",
+      "description": "Lorem ipsum",
+      "price": 14,
+      "availableQuantity": 10,
+      "avgRating": 0,
+      "numRatings": 0
+    }
+  ]
 }
